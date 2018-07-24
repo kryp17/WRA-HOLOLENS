@@ -6,7 +6,6 @@ class WriteTextFile
         // These examples assume a "C:\Users\Public\TestFolder" folder on your machine.
         // You can modify the path if necessary.
         
-
         // Example #1: Write an array of strings to a file.
         // Create a string array that consists of three lines.
         string[] lines = { "First line", "Second line", "Third line" };
